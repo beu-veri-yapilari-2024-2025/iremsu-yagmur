@@ -1,0 +1,14 @@
+C:\Users\iremy\source\repos\dizi sayıları toplamı lokasyon\dizi sayıları toplamı lokasyon\obj\Debug\net8.0\dizi sayıları toplamı lokasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iremy\source\repos\dizi sayıları toplamı lokasyon\dizi sayıları toplamı lokasyon\obj\Debug\net8.0\dizi sayıları toplamı lokasyon.AssemblyInfoInputs.cache
+C:\Users\iremy\source\repos\dizi sayıları toplamı lokasyon\dizi sayıları toplamı lokasyon\obj\Debug\net8.0\dizi sayıları toplamı lokasyon.AssemblyInfo.cs
+C:\Users\iremy\source\repos\dizi sayıları toplamı lokasyon\dizi sayıları toplamı lokasyon\obj\Debug\net8.0\dizi sayıları toplamı lokasyon.csproj.CoreCompileInputs.cache
+C:\Users\iremy\source\repos\dizi sayıları toplamı lokasyon\dizi sayıları toplamı lokasyon\bin\Debug\net8.0\dizi sayıları toplamı lokasyon.exe
+C:\Users\iremy\source\repos\dizi sayıları toplamı lokasyon\dizi sayıları toplamı lokasyon\bin\Debug\net8.0\dizi sayıları toplamı lokasyon.deps.json
+C:\Users\iremy\source\repos\dizi sayıları toplamı lokasyon\dizi sayıları toplamı lokasyon\bin\Debug\net8.0\dizi sayıları toplamı lokasyon.runtimeconfig.json
+C:\Users\iremy\source\repos\dizi sayıları toplamı lokasyon\dizi sayıları toplamı lokasyon\bin\Debug\net8.0\dizi sayıları toplamı lokasyon.dll
+C:\Users\iremy\source\repos\dizi sayıları toplamı lokasyon\dizi sayıları toplamı lokasyon\bin\Debug\net8.0\dizi sayıları toplamı lokasyon.pdb
+C:\Users\iremy\source\repos\dizi sayıları toplamı lokasyon\dizi sayıları toplamı lokasyon\obj\Debug\net8.0\dizi sayıları toplamı lokasyon.dll
+C:\Users\iremy\source\repos\dizi sayıları toplamı lokasyon\dizi sayıları toplamı lokasyon\obj\Debug\net8.0\refint\dizi sayıları toplamı lokasyon.dll
+C:\Users\iremy\source\repos\dizi sayıları toplamı lokasyon\dizi sayıları toplamı lokasyon\obj\Debug\net8.0\dizi sayıları toplamı lokasyon.pdb
+C:\Users\iremy\source\repos\dizi sayıları toplamı lokasyon\dizi sayıları toplamı lokasyon\obj\Debug\net8.0\dizi sayıları toplamı lokasyon.genruntimeconfig.cache
+C:\Users\iremy\source\repos\dizi sayıları toplamı lokasyon\dizi sayıları toplamı lokasyon\obj\Debug\net8.0\ref\dizi sayıları toplamı lokasyon.dll

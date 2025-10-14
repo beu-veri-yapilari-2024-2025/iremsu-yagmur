@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iremy\\source\\repos\\dizideki eleman aranmas\u0131 lokasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{332EF67A-2ACD-4550-8FCB-82C91CD34D91}|dizideki eleman aranmas\u0131 lokasyonu\\dizideki eleman aranmas\u0131 lokasyonu.csproj|c:\\users\\iremy\\source\\repos\\dizideki eleman aranmas\u0131 lokasyonu\\dizideki eleman aranmas\u0131 lokasyonu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332EF67A-2ACD-4550-8FCB-82C91CD34D91}|dizideki eleman aranmas\u0131 lokasyonu\\dizideki eleman aranmas\u0131 lokasyonu.csproj|solutionrelative:dizideki eleman aranmas\u0131 lokasyonu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iremy\\source\\repos\\dizideki eleman aranmas\u0131 lokasyonu\\dizideki eleman aranmas\u0131 lokasyonu\\Program.cs",
+              "RelativeDocumentMoniker": "dizideki eleman aranmas\u0131 lokasyonu\\Program.cs",
+              "ToolTip": "C:\\Users\\iremy\\source\\repos\\dizideki eleman aranmas\u0131 lokasyonu\\dizideki eleman aranmas\u0131 lokasyonu\\Program.cs",
+              "RelativeToolTip": "dizideki eleman aranmas\u0131 lokasyonu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T14:09:09.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "dizi sayıları toplamı lokasyon/1.0.0": {
+        "runtime": {
+          "dizi sayıları toplamı lokasyon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dizi sayıları toplamı lokasyon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
